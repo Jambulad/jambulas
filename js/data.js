@@ -1,0 +1,1 @@
+import family from "../tree/family.json" with { type: 'json' }
